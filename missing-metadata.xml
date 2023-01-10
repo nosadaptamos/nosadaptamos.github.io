@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Missing Metadata</name>
+		<description>Missing Metadata Module</description>
+		<element>mod_missingmetadata</element>
+		<type>module</type>
+		<version>1.0.3</version>
+		<client>administrator</client>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/nosadaptamos/Missing-Metadata/archive/refs/heads/main.zip</downloadurl>
+		</downloads>
+        <tags>
+			<tag>stable</tag>
+		</tags>
+        <maintainer>NosAdaptamos</maintainer>
+        <maintainerurl>https://www.nosadaptamos.com/</maintainerurl>
+		<targetplatform name="joomla" version="((3\.(6|7|8|9|10))|((4\.(0|1|2|3|4|5)))"/>
+	</update>
+</updates>
